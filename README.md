@@ -1,2 +1,2 @@
 # LiveGameData
-Extract game data for World of Warships
+Extracted game data for World of Warships
