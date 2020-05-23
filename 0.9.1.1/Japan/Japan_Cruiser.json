@@ -1,0 +1,1153 @@
+{
+    "PJSC004_Yubari_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 4,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC005_Furutaka_1926": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Artillery1": {
+            "HE": {
+                "alphaPiercingHE": 33.0,
+                "bulletKrupp": 85.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA049_200mm_HE_Common_Type_4",
+                "bulletSpeed": 870.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.2,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.317,
+                "bulletMass": 110.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2377.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA048_200mm_AP_APC_Type_5",
+                "bulletSpeed": 870.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 33.0,
+                "bulletDiametr": 0.2,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.317,
+                "bulletMass": 110.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 5,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 2
+    },
+    "PJSC007_Aoba_1943": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 6,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC008_Myoko_1945": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC009_Mogami_1935": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Artillery1": {
+            "HE": {
+                "alphaPiercingHE": 26.0,
+                "bulletKrupp": 300.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA020_Shell_155mm_HE_O_Type_0",
+                "bulletSpeed": 925.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.155,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.335,
+                "bulletMass": 55.87,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2429.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA025_Shell_155mm_AP_APC_Type_91",
+                "bulletSpeed": 925.0,
+                "bulletDetonator": 0.01,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 26.0,
+                "bulletDiametr": 0.155,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.335,
+                "bulletMass": 55.87,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 8,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 2
+    },
+    "PJSC012_Ibuki_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 9,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC013_Kuma_1938": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 4,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC014_Kitakami_1945": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 8,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC015_Tatsuta_1919": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 3,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC018_Tone": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC026_Iwaki_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 4,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC034_Zao_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA039_Shell_203mm_HE_C_Type_1",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA038_Shell_203mm_AP_AP_Type_92",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 10,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC035_Chikuma_1912": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 25.0,
+                "bulletKrupp": 1150.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA037_Shell_152mm_HE_C_Type_4",
+                "bulletSpeed": 825.0,
+                "bulletDetonator": 0.01,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.152,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3693,
+                "bulletMass": 45.4,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1450.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA043_Shell_152mm_AP_C_Type_4",
+                "bulletSpeed": 825.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 25.0,
+                "bulletDiametr": 0.152,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3693,
+                "bulletMass": 45.4,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 2,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC037_Hashidate_1940": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 20.0,
+                "bulletKrupp": 480.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA044_Shell_127mm_HE_Type_1",
+                "bulletSpeed": 825.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.12,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.331,
+                "bulletMass": 20.3,
+                "bulletRicochetAt": 91.0
+            }
+        },
+        "Tier": 1,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC038_Atago_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 8,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC503_Katori": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 23.0,
+                "bulletKrupp": 360.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA022_Main_140mm_HE_O_Type_0",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.34,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1794.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA013_Shell_140mm_AP_C_capped",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 23.0,
+                "bulletDiametr": 0.14,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3696,
+                "bulletMass": 38.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 3,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC505_Yahagi": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 25.0,
+                "bulletKrupp": 320.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA085_152MM_HE_YAHAGI",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.01,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.152,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3562,
+                "bulletMass": 45.4,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 1900.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA086_152MM_AP_YAHAGI",
+                "bulletSpeed": 850.0,
+                "bulletDetonator": 0.025,
+                "bulletCapNormalizeMaxAngle": 8.5,
+                "bulletDetonatorThreshold": 25.0,
+                "bulletDiametr": 0.152,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.3562,
+                "bulletMass": 45.4,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 5,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC510_Azumaya": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 52.0,
+                "bulletKrupp": 1.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA087_310MM_HE_AZUMAYA",
+                "bulletSpeed": 836.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.31,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.281,
+                "bulletMass": 448.8,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2365.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA088_310MM_AP_AZUMAYA",
+                "bulletSpeed": 836.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 6.0,
+                "bulletDetonatorThreshold": 52.0,
+                "bulletDiametr": 0.31,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.244,
+                "bulletMass": 448.8,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 9,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC520_Yoshino": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 52.0,
+                "bulletKrupp": 1.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA091_310MM_HE_AZUMAYA",
+                "bulletSpeed": 836.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 68.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.31,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.281,
+                "bulletMass": 448.8,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2365.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA092_310MM_AP_AZUMAYA",
+                "bulletSpeed": 836.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 6.0,
+                "bulletDetonatorThreshold": 52.0,
+                "bulletDiametr": 0.31,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.244,
+                "bulletMass": 448.8,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 10,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC598_Black_Atago": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 8,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC705_Myoko": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC707_Ashigara": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC708_ARP_Takao": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 8,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC709_Haguro": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC717_Yellow_Dragon": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC727_Blue_Dragon": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC737_Nachi": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA009_Shell_203mm_HE_C_Type_0",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA008_Shell_203mm_AP_AP_Type_91",
+                "bulletSpeed": 840.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 125.85,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 7,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC810_TST_ZAO": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA089_HE_TST_ZAO",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA090_AP_TST_ZAO",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 10,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    },
+    "PJSC934_Zao_1944": {
+        "Artillery0": {
+            "HE": {
+                "alphaPiercingHE": 34.0,
+                "bulletKrupp": 560.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA039_Shell_203mm_HE_C_Type_1",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.001,
+                "bulletCapNormalizeMaxAngle": 8.0,
+                "bulletDetonatorThreshold": 2.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 91.0
+            },
+            "AP": {
+                "alphaPiercingHE": 0.0,
+                "bulletKrupp": 2468.0,
+                "bulletAlwaysRicochetAt": 60.0,
+                "name": "PJPA038_Shell_203mm_AP_AP_Type_92",
+                "bulletSpeed": 920.0,
+                "bulletDetonator": 0.033,
+                "bulletCapNormalizeMaxAngle": 7.0,
+                "bulletDetonatorThreshold": 34.0,
+                "bulletDiametr": 0.203,
+                "alphaPiercingCS": 0,
+                "bulletAirDrag": 0.337,
+                "bulletMass": 155.0,
+                "bulletRicochetAt": 45.0
+            }
+        },
+        "Tier": 10,
+        "Nation": "Japan",
+        "Type": "Cruiser",
+        "ammo_num": 1
+    }
+}

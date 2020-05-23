@@ -1,0 +1,23 @@
+{
+    "PUSD503_Vampire": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.3536,
+                "bulletAlwaysRicochetAt": 60.0,
+                "bulletDetonator": 0.01,
+                "bulletDetonatorThreshold": 17.0,
+                "bulletDiametr": 0.102,
+                "bulletKrupp": 2300.0,
+                "bulletMass": 15.2,
+                "bulletRicochetAt": 45.0,
+                "bulletSpeed": 805.0,
+                "alphaPiercingHE": 0.0,
+                "bulletCapNormalizeMaxAngle": 10.0,
+                "name": "PUPA006_102MM_SAP_VAMPIRE"
+            }
+        },
+        "Nation": "Commonwealth",
+        "Tier": 3,
+        "ammo_num": 1
+    }
+}
